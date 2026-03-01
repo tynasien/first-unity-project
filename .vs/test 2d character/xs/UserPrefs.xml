@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{A07B35C7-0217-75A4-AD3B-D0E9F0C0F16E}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b41907d8-0533-4ebf-ba57-400bf4e2031c" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Jump Game/player/Cat Controller.cs">
+    <Files>
+      <File FileName="Assets/Scenes/menu/scrpt/scene.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scenes/menu/scrpt/QuitGame.cs" />
+      <File FileName="Assets/Scenes/fate game/sprites/EnemyAI.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scenes/fate game/sprites/EnemyPathfinding.cs" Line="25" Column="6" />
+      <File FileName="Assets/Scenes/fate game/sprites/PlayerController.cs" Line="5" Column="31" />
+      <File FileName="Assets/Scenes/fate game/sprites/enemies/EnemyHealth.cs" Line="14" Column="6" />
+      <File FileName="Assets/Scenes/fate game/sprites/Sword.cs" Line="26" Column="17" />
+      <File FileName="Assets/Scenes/fate game/sprites/DamageSource.cs" Line="17" Column="2" />
+      <File FileName="Assets/Scenes/fate game/sprites/enemies/Knockback.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/FisrtGame/momo.animator/LilBroWalk.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/Jump Game/player/Cat Controller.cs" Line="69" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test 2d character" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="fate game" expanded="True">
+                  <Node name="sprites" expanded="True">
+                    <Node name="enemies" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="FisrtGame" expanded="True">
+                  <Node name="momo.animator" expanded="True" />
+                </Node>
+                <Node name="Jump Game" expanded="True">
+                  <Node name="player" expanded="True" />
+                </Node>
+                <Node name="menu" expanded="True">
+                  <Node name="scrpt" expanded="True" />
+                </Node>
+                <Node name="top down" expanded="True">
+                  <Node name="buttons" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

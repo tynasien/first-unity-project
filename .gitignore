@@ -1,0 +1,10 @@
+Library/
+Temp/
+Obj/
+obj/
+Logs/
+Build/
+*.csproj
+*.sln
+UserSettings/
+mono_crash*
